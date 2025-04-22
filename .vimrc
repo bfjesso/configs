@@ -1,4 +1,5 @@
 syntax on
+filetype indent on
 colorscheme pablo
 set guifont=Mono
 set number
